@@ -6,7 +6,6 @@
 # Entorno virtual
 venv/
 ENV/
-Scripts/
 
 pyvenv.cfg
 chatbot_env/Lib
